@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>  
+    <link rel="stylesheet" href="style.css"> 
+    
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+
+<body>
+    <div class="header">
+    <h1 id="main-heading">Karima Mursalimova</h1>
+    <h2>IT-2502</h2>
+    <h3>About Me</h3>
+    
+    <p style="color: #3498db; font-size: 18px;">
+        Hi! My name is Karima Mursalimova. I am studying Computer Science. I like to draw and play volleyball.
+    </p>
+</div>
+
+<div class="main-content">
+    <h3>My hobbies</h3>
+<ol>
+    <li>Reading books</li>
+    <li>Playing volleyball</li>
+    <li>Drawwing</li>
+</ol>
+
+<h3>My favorite books</h3>
+<ul>
+    <li><a href="https://foxhole-court.fandom.com/wiki/The_Foxhole_Court_(book)" target="_blank">
+        "The foxhole court" - Nore Sakavic
+        </a></li>
+    <li><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/" target="_blank">
+           "1984" - George Orwell
+        </a></li>
+    <li><a href="https://www.lepetitprince.com/en/" target="_blank">
+            "The Little Prince" - Antoine de Saint-Exupéry
+        </a></li>
+</ul>
+
+<h3>My photo</h3>
+<img src="myphoto.jpg" alt="My photo" width="200">
+
+<h3>My social media</h3>
+<li>
+        <a href="https://www.instagram.com/ikm_ls/" target="_blank">
+            Instagram
+        </a>
+</li>
+<li>
+        <a href="https://github.com/Karimamur07" target="_blank">
+            GitHub
+        </a>
+</li>
+
+<h3>Button</h3>
+<button>Click Me</button>
+
+<h3>My Weekly Class Schedule </h3>
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Subject</th>
+            <th>Day</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Discrete Mathematics</td>
+            <td>Monday</td>
+            <td>14:00 - 15:50</td>
+        </tr>
+        <tr>
+            <td>WEB Technologies 1</td>
+            <td>Tuesday</td>
+            <td>16:00 - 16:50</td>
+        </tr>
+        <tr>
+            <td>Computer Organisation and Architecture</td>
+            <td>Wednesday</td>
+            <td>15:00 - 15:50</td>
+        </tr>
+        <tr>
+            <td>Discrete Mathematic</td>
+            <td>Thursday</td>
+            <td>16:00 - 16:50</td>
+        </tr>
+        <tr>
+            <td>Kazakh Language</td>
+            <td>Friday</td>
+            <td>17:00 - 17:50</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>My Page Layout with Tables </h3>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+    <tr>
+        <td width="30%" valign="top">
+            <h4>Menu</h4>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </td>
+        <td width="70%" valign="top">
+            <h4> Main Content</h4>
+            <p>This is the main content area. Here you can put your text, images, or any other information you want to share.</p>
+            <p>Tables were commonly used for layout before CSS became powerful!</p>
+        </td>
+    </tr>
+</table>
+
+<h3>My Mood Today 😊</h3>
+<p class="highlight">
+    Today I'm feeling very productive and happy! 💪 
+    The weather is great and I'm in a good mood! ☀️ 
+</p>
+
+<h3>Contact Form </h3>
+<form>
+    <label>Name:</label>
+    <input type="text" value="Write your name">
+    <br><br>
+    
+    <label>Email:</label>
+    <input type="email" value="Enter your email">
+    <br><br>
+    
+    <label>Favorite Color:</label>
+    <input type="color" value="#4CAF50">
+    <br><br>
+    
+    <input type="submit" value="Submit">
+</form>
+</div>
+
+<div class="footer">
+        <p>© 2026 Karima Mursalimova. All rights reserved.</p>
+</div>
+
+
+<h3>Box Model Demo 📦</h3>
+<div class="box-demo">
+    <div class="box-small">Small padding & margin</div>
+    <div class="box-medium">Medium padding & margin</div>
+    <div class="box-large">Large padding & margin</div>
+</div>
+
+
+
+
+<h3>CSS Positioning Demo 📍</h3>
+
+<!-- Static (default) -->
+<div class="position-static">
+    <p>This is STATIC position (default)</p>
+</div>
+
+<!-- Relative -->
+<div class="position-relative">
+    <p>This is RELATIVE position (shifted 20px down and right)</p>
+</div>
+
+<!-- Absolute -->
+<div class="position-absolute">
+    <p>This is ABSOLUTE position (fixed to page)</p>
+</div>
+
+
+
+
+
+<h3>CSS Sizing Demo 📏</h3>
+<div class="px-size">This uses px (20px font, 15px padding)</div>
+<div class="percent-size">This uses % (150% font, 5% padding)</div>
+<div class="em-size">This uses em (1.5em font, 1em padding)</div>
+<div class="rem-size">This uses rem (2rem font, 1.5rem padding)</div>
+
+
+
+<h3>Float and Clear Demo 🌊</h3>
+
+<div class="float-container">
+    <div class="float-left">
+        <p>⬅️ FLOAT LEFT</p>
+        <p>This box is floated to the left.</p>
+    </div>
+    
+    <div class="float-right">
+        <p>➡️ FLOAT RIGHT</p>
+        <p>This box is floated to the right.</p>
+    </div>
+    
+    <div class="clear-both">
+        <p>⬇️ CLEAR BOTH</p>
+        <p>This box uses clear: both to appear below the floated boxes.</p>
+    </div>
+</div>
+
+
+</body>
+</html>
