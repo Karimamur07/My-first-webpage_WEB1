@@ -100,3 +100,92 @@ p {}
 <img width="412" height="59" alt="image" src="https://github.com/user-attachments/assets/a66750d2-2b6f-477e-908d-c75c8bae7a1f" />
 <img width="1277" height="147" alt="image" src="https://github.com/user-attachments/assets/b7a626a2-b831-41f4-a7ad-1b66873835f8" />
 
+
+Part 4. Intermediate CSS
+
+
+Step 15. Favicons
+
+<img width="461" height="57" alt="image" src="https://github.com/user-attachments/assets/8e00caaf-27f4-4541-a126-37dc7dc89965" />
+<img width="198" height="33" alt="image" src="https://github.com/user-attachments/assets/bc3a12f0-efd6-45be-9116-4a89e65c1e7a" />
+
+Step 16. HTML Divs
+
+•	Use <div> to group content into sections (header, main content, footer).
+•	Style them with background colors and padding.
+
+header
+
+<img width="570" height="189" alt="image" src="https://github.com/user-attachments/assets/27b3aeff-e982-432c-a14f-d5f5f5a7c1ae" />
+<img width="433" height="233" alt="image" src="https://github.com/user-attachments/assets/5e91daf4-01c4-4544-a487-459c6ea20854" />
+<img width="1297" height="332" alt="image" src="https://github.com/user-attachments/assets/acec6d1b-8d49-4deb-9a9e-d4ece2075077" />
+
+main content
+
+<img width="279" height="155" alt="image" src="https://github.com/user-attachments/assets/8c4efa74-6949-4189-9d2a-6852f15666bc" />
+<img width="407" height="148" alt="image" src="https://github.com/user-attachments/assets/3bb337bd-eebd-4044-83fe-72ed67320b1f" />
+<img width="1297" height="197" alt="image" src="https://github.com/user-attachments/assets/3f39487f-f486-4153-83e1-68c57bbc8c10" />
+
+footer
+
+<img width="492" height="70" alt="image" src="https://github.com/user-attachments/assets/233e3a5f-90d1-443a-a35c-306d8d2f0fd7" />
+<img width="278" height="243" alt="image" src="https://github.com/user-attachments/assets/20f7dc43-23e0-4c91-bc5b-67de43745a84" />
+<img width="1295" height="112" alt="image" src="https://github.com/user-attachments/assets/b25ee9bb-54e4-41b8-bbad-efb4269d3869" />
+
+Step 17. Box Model
+
+I added borders, margins, and padding to Button
+
+<img width="303" height="211" alt="image" src="https://github.com/user-attachments/assets/57032c16-cf0d-4c9e-9263-98970c37ce35" />
+<img width="226" height="140" alt="image" src="https://github.com/user-attachments/assets/aba63a8e-8ec4-46ca-8811-f3ecccafa111" />
+
+I added borders, margins, and padding to Contact Form
+
+<img width="283" height="546" alt="image" src="https://github.com/user-attachments/assets/828e5b58-cc09-4f14-b7fd-0ecd3d9817fe" />
+<img width="610" height="496" alt="image" src="https://github.com/user-attachments/assets/3dceb1d7-25df-457c-b7a1-69955faa246f" />
+
+Step 18. CSS Positioning
+•	Create one element with static position (default).
+•	Another with relative (shifted slightly).
+•	Another with absolute (fixed relative to page).
+
+Static position (default)
+
+All elements on the page already have position: static by default.
+
+Relative Button
+
+<img width="435" height="67" alt="image" src="https://github.com/user-attachments/assets/d7432a78-5a60-4b8b-9cdb-39126395736a" />
+<img width="229" height="119" alt="image" src="https://github.com/user-attachments/assets/aebe90a5-7285-40c8-8fcd-57cb73e4d0a2" />
+<img width="356" height="158" alt="image" src="https://github.com/user-attachments/assets/e1ae49bd-1b59-4cea-9cf7-798a3deeb636" />
+
+Аbsolute badge
+
+<img width="322" height="47" alt="image" src="https://github.com/user-attachments/assets/e8a10bcf-6173-4483-9dbc-dfcd351b5fd4" />
+<img width="283" height="327" alt="image" src="https://github.com/user-attachments/assets/f3bbdcfb-9d77-4b74-b462-993ac827b5ea" />
+<img width="1264" height="139" alt="image" src="https://github.com/user-attachments/assets/334b3c0c-7291-4afe-9a6b-089123bc00da" />
+
+
+Step 19. CSS Sizing
+•	Use px, %, em, and rem units to style headings and images.
+
+px
+
+<img width="198" height="112" alt="image" src="https://github.com/user-attachments/assets/63fda704-5cca-44fa-9e59-39e1be605087" />
+
+%
+
+<img width="214" height="144" alt="image" src="https://github.com/user-attachments/assets/b10e7ffd-656a-4fc8-93d9-96423b6726fd" />
+
+em
+
+<img width="206" height="99" alt="image" src="https://github.com/user-attachments/assets/34d872a1-b975-49a2-9314-7d40f5835f7a" />
+
+Step 20. Float and Clear
+•	Create a simple layout with two boxes floated left and right.
+•	Use clear to fix overlapping issues.
+
+<img width="453" height="356" alt="image" src="https://github.com/user-attachments/assets/f9f7cb0e-2eb3-485a-8248-14fa87760cf8" />
+<img width="242" height="478" alt="image" src="https://github.com/user-attachments/assets/435b6f95-e457-4a21-92f5-06b7acc57e29" />
+<img width="1312" height="363" alt="image" src="https://github.com/user-attachments/assets/b5851355-96e6-4e1b-adf5-3fd7a560e8f5" />
+
