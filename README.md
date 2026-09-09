@@ -191,3 +191,6 @@ Step 20. Float and Clear
 <img width="242" height="478" alt="image" src="https://github.com/user-attachments/assets/435b6f95-e457-4a21-92f5-06b7acc57e29" />
 <img width="1312" height="363" alt="image" src="https://github.com/user-attachments/assets/b5851355-96e6-4e1b-adf5-3fd7a560e8f5" />
 
+## Summary
+
+I created my first webpage using HTML and CSS. I learned how to structure content with headings, paragraphs, lists, tables, and forms. I styled the page using inline, internal, and external CSS. I used divs, box model, positioning, sizing, float, and clear to create a well-designed layout. Finally, I published my page using GitHub Pages.
