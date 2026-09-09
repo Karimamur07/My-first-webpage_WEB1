@@ -166,7 +166,6 @@ Relative Button
 <img width="283" height="327" alt="image" src="https://github.com/user-attachments/assets/f3bbdcfb-9d77-4b74-b462-993ac827b5ea" />
 <img width="1264" height="139" alt="image" src="https://github.com/user-attachments/assets/334b3c0c-7291-4afe-9a6b-089123bc00da" />
 
-
 Step 19. CSS Sizing
 •	Use px, %, em, and rem units to style headings and images.
 
