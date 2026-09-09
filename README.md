@@ -145,6 +145,7 @@ I added borders, margins, and padding to Contact Form
 <img width="610" height="496" alt="image" src="https://github.com/user-attachments/assets/3dceb1d7-25df-457c-b7a1-69955faa246f" />
 
 Step 18. CSS Positioning
+
 •	Create one element with static position (default).
 •	Another with relative (shifted slightly).
 •	Another with absolute (fixed relative to page).
@@ -182,6 +183,7 @@ em
 <img width="206" height="99" alt="image" src="https://github.com/user-attachments/assets/34d872a1-b975-49a2-9314-7d40f5835f7a" />
 
 Step 20. Float and Clear
+
 •	Create a simple layout with two boxes floated left and right.
 •	Use clear to fix overlapping issues.
 
