@@ -72,6 +72,13 @@ button {
     color: white;
 }
 
+.main-content {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
 
 .footer {
     background-color: #2c3e50;
