@@ -72,9 +72,12 @@ Step 12. External CSS
 •	Link it to your HTML with <link rel="stylesheet" href="style.css">.
 •	Move your CSS rules into this file.
 
-<img width="381" height="651" alt="image" src="https://github.com/user-attachments/assets/95094b9b-aee5-49c8-b7ec-12730ea73ac4" />
-<img width="368" height="76" alt="image" src="https://github.com/user-attachments/assets/cabdc706-6819-45e0-ac3e-edeacd2a87ef" />
-<img width="724" height="201" alt="image" src="https://github.com/user-attachments/assets/f92fe8b3-66ae-428b-b1b1-99c63f81b204" />
+
+<img width="411" height="499" alt="image" src="https://github.com/user-attachments/assets/3e436b47-4dec-496c-939b-d7ee6a8adad6" />
+<img width="282" height="167" alt="image" src="https://github.com/user-attachments/assets/0ba5986d-febb-4ca3-96e8-4294e977b9fd" />
+<img width="401" height="101" alt="image" src="https://github.com/user-attachments/assets/ab1e8f13-ccfe-48c0-98f9-18ff4d7c207a" />
+<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/a66dc14a-aadf-47ab-b49a-42bb851b19bf" />
+
 
 Step 13. CSS Syntax & Selectors - Step 14. Classes vs. IDs
 
@@ -85,18 +88,21 @@ Step 13. CSS Syntax & Selectors - Step 14. Classes vs. IDs
 
 p {}
 
-<img width="202" height="120" alt="image" src="https://github.com/user-attachments/assets/3d175bb4-5a97-42cf-b694-8b29f521d36e" />
+
+<img width="194" height="94" alt="image" src="https://github.com/user-attachments/assets/ca3c2e86-ff1b-4412-b7c3-a0031130da13" />
 <img width="853" height="48" alt="image" src="https://github.com/user-attachments/assets/b2cc326c-6f8c-4efe-ae7e-af8e4374de24" />
 
 .classname {}
 
-<img width="268" height="133" alt="image" src="https://github.com/user-attachments/assets/9abda33a-fc55-42db-a71e-21e9f7f5fefa" />
+
+<img width="271" height="108" alt="image" src="https://github.com/user-attachments/assets/1d402026-cc84-4492-b793-59884983895f" />
 <img width="408" height="101" alt="image" src="https://github.com/user-attachments/assets/8409aa3c-ebd3-425b-b91b-5b21c6e139d8" />
 <img width="867" height="105" alt="image" src="https://github.com/user-attachments/assets/3bf1baf0-8ad3-40fe-a8b9-0ee0f86d79d8" />
 
 #idname {}
 
-<img width="258" height="140" alt="image" src="https://github.com/user-attachments/assets/577ca495-3110-45a4-a32e-fb7158339b79" />
+
+<img width="239" height="108" alt="image" src="https://github.com/user-attachments/assets/de21dd41-8f5c-4340-9402-8f74a0d3c594" />
 <img width="412" height="59" alt="image" src="https://github.com/user-attachments/assets/a66750d2-2b6f-477e-908d-c75c8bae7a1f" />
 <img width="1277" height="147" alt="image" src="https://github.com/user-attachments/assets/b7a626a2-b831-41f4-a7ad-1b66873835f8" />
 
@@ -117,32 +123,32 @@ Step 16. HTML Divs
 header
 
 <img width="570" height="189" alt="image" src="https://github.com/user-attachments/assets/27b3aeff-e982-432c-a14f-d5f5f5a7c1ae" />
-<img width="433" height="233" alt="image" src="https://github.com/user-attachments/assets/5e91daf4-01c4-4544-a487-459c6ea20854" />
+<img width="268" height="147" alt="image" src="https://github.com/user-attachments/assets/ebc8f4bd-7c93-4e82-afb9-498e3c62e847" />
 <img width="1297" height="332" alt="image" src="https://github.com/user-attachments/assets/acec6d1b-8d49-4deb-9a9e-d4ece2075077" />
 
 main content
 
 <img width="279" height="155" alt="image" src="https://github.com/user-attachments/assets/8c4efa74-6949-4189-9d2a-6852f15666bc" />
-<img width="407" height="148" alt="image" src="https://github.com/user-attachments/assets/3bb337bd-eebd-4044-83fe-72ed67320b1f" />
+<img width="251" height="105" alt="image" src="https://github.com/user-attachments/assets/d5a02cf5-b95d-4545-8c59-6d0ffa287a37" />
 <img width="1297" height="197" alt="image" src="https://github.com/user-attachments/assets/3f39487f-f486-4153-83e1-68c57bbc8c10" />
 
 footer
 
 <img width="492" height="70" alt="image" src="https://github.com/user-attachments/assets/233e3a5f-90d1-443a-a35c-306d8d2f0fd7" />
-<img width="278" height="243" alt="image" src="https://github.com/user-attachments/assets/20f7dc43-23e0-4c91-bc5b-67de43745a84" />
+<img width="272" height="216" alt="image" src="https://github.com/user-attachments/assets/83af94e5-6b6f-4d6c-8a87-d5807a482d81" />
 <img width="1295" height="112" alt="image" src="https://github.com/user-attachments/assets/b25ee9bb-54e4-41b8-bbad-efb4269d3869" />
 
 Step 17. Box Model
 
 I added borders, margins, and padding to Button
 
-<img width="303" height="211" alt="image" src="https://github.com/user-attachments/assets/57032c16-cf0d-4c9e-9263-98970c37ce35" />
-<img width="226" height="140" alt="image" src="https://github.com/user-attachments/assets/aba63a8e-8ec4-46ca-8811-f3ecccafa111" />
+<img width="271" height="173" alt="image" src="https://github.com/user-attachments/assets/4af6b224-5a4e-459f-80c7-1689d68d94fa" />
+<img width="197" height="136" alt="image" src="https://github.com/user-attachments/assets/a6eb923d-370e-4ede-809f-ef49dade519d" />
 
 I added borders, margins, and padding to Contact Form
 
-<img width="283" height="546" alt="image" src="https://github.com/user-attachments/assets/828e5b58-cc09-4f14-b7fd-0ecd3d9817fe" />
-<img width="610" height="496" alt="image" src="https://github.com/user-attachments/assets/3dceb1d7-25df-457c-b7a1-69955faa246f" />
+<img width="273" height="570" alt="image" src="https://github.com/user-attachments/assets/dc051314-7ba5-458f-86c3-85dcf61c4d9b" />
+<img width="581" height="475" alt="image" src="https://github.com/user-attachments/assets/442a321b-fa7d-45f0-8d64-1af7449dad0b" />
 
 Step 18. CSS Positioning
 
@@ -158,24 +164,24 @@ Relative Button
 
 <img width="435" height="67" alt="image" src="https://github.com/user-attachments/assets/d7432a78-5a60-4b8b-9cdb-39126395736a" />
 <img width="229" height="119" alt="image" src="https://github.com/user-attachments/assets/aebe90a5-7285-40c8-8fcd-57cb73e4d0a2" />
-<img width="356" height="158" alt="image" src="https://github.com/user-attachments/assets/e1ae49bd-1b59-4cea-9cf7-798a3deeb636" />
+<img width="191" height="140" alt="image" src="https://github.com/user-attachments/assets/99b90879-e70e-4d9b-bf41-375dba989034" />
 
 Аbsolute badge
 
 <img width="322" height="47" alt="image" src="https://github.com/user-attachments/assets/e8a10bcf-6173-4483-9dbc-dfcd351b5fd4" />
-<img width="283" height="327" alt="image" src="https://github.com/user-attachments/assets/f3bbdcfb-9d77-4b74-b462-993ac827b5ea" />
-<img width="1264" height="139" alt="image" src="https://github.com/user-attachments/assets/334b3c0c-7291-4afe-9a6b-089123bc00da" />
+<img width="264" height="282" alt="image" src="https://github.com/user-attachments/assets/178fe32d-9177-43cd-993a-196b5447be24" />
+<img width="1312" height="146" alt="image" src="https://github.com/user-attachments/assets/c837f212-52b8-4161-ba8b-0baaee03004d" />
 
 Step 19. CSS Sizing
 •	Use px, %, em, and rem units to style headings and images.
 
 px
 
-<img width="198" height="112" alt="image" src="https://github.com/user-attachments/assets/63fda704-5cca-44fa-9e59-39e1be605087" />
+<img width="177" height="94" alt="image" src="https://github.com/user-attachments/assets/c8f3e66a-05b4-49e2-9013-8e2ce0528007" />
 
 %
 
-<img width="214" height="144" alt="image" src="https://github.com/user-attachments/assets/b10e7ffd-656a-4fc8-93d9-96423b6726fd" />
+<img width="190" height="103" alt="image" src="https://github.com/user-attachments/assets/778fb1c0-4f54-44ed-bfd0-355f52cdcf6d" />
 
 em
 
