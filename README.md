@@ -97,7 +97,7 @@ p {}
 
 <img width="271" height="108" alt="image" src="https://github.com/user-attachments/assets/1d402026-cc84-4492-b793-59884983895f" />
 <img width="408" height="101" alt="image" src="https://github.com/user-attachments/assets/8409aa3c-ebd3-425b-b91b-5b21c6e139d8" />
-<img width="867" height="105" alt="image" src="https://github.com/user-attachments/assets/3bf1baf0-8ad3-40fe-a8b9-0ee0f86d79d8" />
+<img width="1251" height="117" alt="image" src="https://github.com/user-attachments/assets/d33729c0-1cd8-4efe-8d3b-0be9a7796616" />
 
 #idname {}
 
@@ -124,19 +124,19 @@ header
 
 <img width="570" height="189" alt="image" src="https://github.com/user-attachments/assets/27b3aeff-e982-432c-a14f-d5f5f5a7c1ae" />
 <img width="268" height="147" alt="image" src="https://github.com/user-attachments/assets/ebc8f4bd-7c93-4e82-afb9-498e3c62e847" />
-<img width="1297" height="332" alt="image" src="https://github.com/user-attachments/assets/acec6d1b-8d49-4deb-9a9e-d4ece2075077" />
+<img width="1313" height="327" alt="image" src="https://github.com/user-attachments/assets/b7bba738-dc14-4270-86a7-ee4d8df8702c" />
 
 main content
 
 <img width="279" height="155" alt="image" src="https://github.com/user-attachments/assets/8c4efa74-6949-4189-9d2a-6852f15666bc" />
 <img width="251" height="105" alt="image" src="https://github.com/user-attachments/assets/d5a02cf5-b95d-4545-8c59-6d0ffa287a37" />
-<img width="1297" height="197" alt="image" src="https://github.com/user-attachments/assets/3f39487f-f486-4153-83e1-68c57bbc8c10" />
+<img width="1308" height="213" alt="image" src="https://github.com/user-attachments/assets/f2a293f5-be09-490b-814a-e9dabc4e0745" />
 
 footer
 
 <img width="492" height="70" alt="image" src="https://github.com/user-attachments/assets/233e3a5f-90d1-443a-a35c-306d8d2f0fd7" />
 <img width="272" height="216" alt="image" src="https://github.com/user-attachments/assets/83af94e5-6b6f-4d6c-8a87-d5807a482d81" />
-<img width="1295" height="112" alt="image" src="https://github.com/user-attachments/assets/b25ee9bb-54e4-41b8-bbad-efb4269d3869" />
+<img width="1302" height="91" alt="image" src="https://github.com/user-attachments/assets/39532be5-c036-4d9d-a12e-017b6a192822" />
 
 Step 17. Box Model
 
